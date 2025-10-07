@@ -3,7 +3,8 @@
     "id": "1",
     "name": "Uniswap",
     "url": "https://app.uniswap.org/",
-    "logo": "https://cryptologos.cc/logos/uniswap-uni-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/uniswap-uni-logo.png"
+",
     "category": "DeFi",
     "subtitle": "Trade and provide liquidity on Ethereum and Layer 2 networks."
   },
@@ -11,7 +12,8 @@
     "id": "2",
     "name": "PancakeSwap",
     "url": "https://pancakeswap.finance/",
-    "logo": "https://cryptologos.cc/logos/pancakeswap-cake-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/pancakeswap-cake-logo.png"
+",
     "category": "DeFi",
     "subtitle": "Swap, earn, and win crypto on the BNB Smart Chain."
   },
@@ -19,7 +21,8 @@
     "id": "3",
     "name": "Aave",
     "url": "https://app.aave.com/",
-    "logo": "https://cryptologos.cc/logos/aave-aave-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/aave-aave-logo.png"
+",
     "category": "Lending",
     "subtitle": "Deposit and borrow assets with decentralized lending."
   },
@@ -27,7 +30,8 @@
     "id": "4",
     "name": "Compound",
     "url": "https://app.compound.finance/",
-    "logo": "https://cryptologos.cc/logos/compound-comp-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/compound-comp-logo.png"
+",
     "category": "Lending",
     "subtitle": "Earn interest on crypto deposits and borrow securely."
   },
@@ -35,7 +39,8 @@
     "id": "5",
     "name": "1inch",
     "url": "https://app.1inch.io/",
-    "logo": "https://cryptologos.cc/logos/1inch-1inch-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/1inch-1inch-logo.png"
+",
     "category": "Aggregator",
     "subtitle": "Find the best crypto exchange rates across DeFi."
   },
@@ -43,7 +48,8 @@
     "id": "6",
     "name": "OpenSea",
     "url": "https://opensea.io/",
-    "logo": "https://cryptologos.cc/logos/opensea-opensea-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/opensea.png"
+",
     "category": "NFT",
     "subtitle": "Discover, collect, and sell NFTs easily."
   },
@@ -51,7 +57,8 @@
     "id": "7",
     "name": "Magic Eden",
     "url": "https://magiceden.io/",
-    "logo": "https://assets.coingecko.com/coins/images/28259/standard/magic-eden.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/Magic-Eden-Visual-PNG-thumb.png"
+",
     "category": "NFT",
     "subtitle": "Leading NFT marketplace on Solana and Ethereum."
   },
@@ -59,7 +66,8 @@
     "id": "8",
     "name": "Zapper",
     "url": "https://zapper.xyz/",
-    "logo": "https://assets.coingecko.com/coins/images/12688/standard/Zapper.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/zapper.png"
+",
     "category": "Aggregator",
     "subtitle": "Track and manage your DeFi and NFT portfolio."
   },
@@ -67,7 +75,8 @@
     "id": "9",
     "name": "Metamask Portfolio",
     "url": "https://portfolio.metamask.io/",
-    "logo": "https://cryptologos.cc/logos/metamask-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/Metamask-Digital-Asset-Logo-PNG.png"
+",
     "category": "General",
     "subtitle": "Monitor assets, swap tokens, and stake with MetaMask."
   },
@@ -75,7 +84,8 @@
     "id": "10",
     "name": "Curve Finance",
     "url": "https://curve.fi/",
-    "logo": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/curve-dao-token-crv-logo.png"
+",
     "category": "DeFi",
     "subtitle": "Stablecoin trading platform optimized for low fees."
   },
@@ -83,7 +93,8 @@
     "id": "11",
     "name": "SushiSwap",
     "url": "https://www.sushi.com/",
-    "logo": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/sushiswap-sushi-logo.png"
+",
     "category": "DeFi",
     "subtitle": "Trade, farm, and earn rewards in the DeFi ecosystem."
   },
@@ -91,7 +102,8 @@
     "id": "12",
     "name": "Rarible",
     "url": "https://rarible.com/",
-    "logo": "https://cryptologos.cc/logos/rarible-rari-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/rarible-rari-logo.png"
+",
     "category": "NFT",
     "subtitle": "Create and sell digital collectibles with ease."
   },
@@ -99,7 +111,8 @@
     "id": "13",
     "name": "Balancer",
     "url": "https://balancer.fi/",
-    "logo": "https://cryptologos.cc/logos/balancer-bal-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/balancer-bal-logo.png"
+",
     "category": "DeFi",
     "subtitle": "Automated portfolio manager and liquidity provider."
   },
@@ -107,7 +120,8 @@
     "id": "14",
     "name": "Yearn Finance",
     "url": "https://yearn.finance/",
-    "logo": "https://cryptologos.cc/logos/yearn-finance-yfi-logo.png",
+    "logo": ""logo": "https://raw.githubusercontent.com/aladibright/open-dapp-directory/main/images/yearn-finance-yfi-logo.png"
+",
     "category": "DeFi",
     "subtitle": "Maximize yield farming profits with automation."
   },
