@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Uniswap",
+    "url": "https://app.uniswap.org/",
+    "logo": "https://cryptologos.cc/logos/uniswap-uni-logo.png",
+    "category": "DeFi",
+    "subtitle": "Swap, earn, and build on DeFi."
+  },
+  {
+    "id": "2",
+    "name": "Aave",
+    "url": "https://app.aave.com/",
+    "logo": "https://cryptologos.cc/logos/aave-aave-logo.png",
+    "category": "Lending",
+    "subtitle": "Earn interest on deposits and borrow assets."
+  },
+  {
+    "id": "3",
+    "name": "OpenSea",
+    "url": "https://opensea.io/",
+    "logo": "https://cryptologos.cc/logos/opensea-opensea-logo.png",
+    "category": "NFT",
+    "subtitle": "Discover and trade NFTs."
+  },
+  {
+    "id": "4",
+    "name": "1inch",
+    "url": "https://app.1inch.io/",
+    "logo": "https://cryptologos.cc/logos/1inch-1inch-logo.png",
+    "category": "Aggregator",
+    "subtitle": "Find the best crypto prices."
+  },
+  {
+    "id": "5",
+    "name": "PancakeSwap",
+    "url": "https://pancakeswap.finance/",
+    "logo": "https://cryptologos.cc/logos/pancakeswap-cake-logo.png",
+    "category": "DeFi",
+    "subtitle": "Trade and earn on BNB Smart Chain."
+  }
+]
